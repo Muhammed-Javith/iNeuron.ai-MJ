@@ -1,3 +1,3 @@
 # iNeuron.ai-MJ
 
-jAVA
+iNeuron course related stuffs and Assignments.
