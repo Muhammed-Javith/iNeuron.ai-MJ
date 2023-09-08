@@ -76,7 +76,7 @@ class Umpire {
 	}
 }
 
-public class GameGuesser {
+public class GuesserGame {
 	
 	public static void main(String[] args) {
 		Umpire u = new Umpire();
