@@ -8,6 +8,7 @@ public class PangramStringCheck {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter String to find Panagram");
 		String str = scan.nextLine();
+		str=str.replace(" ", "");
 		str = str.toLowerCase();
 		boolean allLetterPresent = true;
 		for (char ch = 'a'; ch <= 'z'; ch++) {
