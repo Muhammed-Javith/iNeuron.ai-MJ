@@ -11,10 +11,10 @@ public class AnagramStringcheck {
 		str1 = scan.nextLine();
 		System.out.print("Enter Second String :");
 		str2 = scan.nextLine();
+	        str1 = str1.replace(" ", "");
+		str2 = str2.replace(" ", "");
 		str1 = str1.toLowerCase();
 		str2 = str2.toLowerCase();
-		str1 = str1.replaceAll("s", "");
-		str2 = str2.replaceAll("s", "");
 		len1 = str1.length();
 		len2 = str2.length();
 		if (len1 == len2) {
