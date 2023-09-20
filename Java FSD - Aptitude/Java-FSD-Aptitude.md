@@ -17,3 +17,5 @@ click here to see the [Algebra](https://github.com/Muhammed-Javith/iNeuron.ai-MJ
 click here to see the [Boats and Streams](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-7%20-%20Boats%20and%20Streams)
 
 click here to see the [Permutations and Combination](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-8%20-%20Permutations%20and%20combination)
+
+click here to see the [Probability](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-9%20-%20Probability)
