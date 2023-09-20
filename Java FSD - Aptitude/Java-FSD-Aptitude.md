@@ -14,4 +14,6 @@ click here to see the [Assignment-5](https://github.com/Muhammed-Javith/iNeuron.
 
 click here to see the [Assignment-6](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-6%20-%20Algebra)
 
+click here to see the [Assignment-7](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-7%20-%20Boats%20and%20Streams)
+
 
