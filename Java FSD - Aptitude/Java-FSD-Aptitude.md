@@ -20,4 +20,4 @@ click here to see the [Permutations and Combination](https://github.com/Muhammed
 
 click here to see the [Probability](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-9%20-%20Probability)
 
-click here to see the [SETS](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-10%20-%20SETS)
+click here to see the [SETS](https://github.com/Muhammed-Javith/iNeuron.ai-MJ/tree/main/Java%20FSD%20-%20Aptitude/Assignment-10-SETS)
